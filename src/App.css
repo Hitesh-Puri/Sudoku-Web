@@ -11,3 +11,13 @@
   justify-content: center;
   color: white;
 }
+
+.field {
+  width: 3rem;
+  height: 3rem;
+  font-size: 2rem;
+  text-align: center;
+}
+.field[readOnly] {
+  color: #717172;
+}
